@@ -21,3 +21,6 @@
 ## The 2nd task is creating a arabic voice recognition site.
 
 In this task you sould create a page using java and html that recognize arabic language and transcribe it intoo the page.
+
+### A screenshot showing the output
+![image](https://user-images.githubusercontent.com/109042265/178165764-c0fbb182-9e3b-4679-87bf-04578500233b.png)
